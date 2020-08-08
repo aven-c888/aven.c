@@ -1,1 +1,10 @@
+title: aven.c Blog
+description: "All warfare is based on deception., Sun Tzu"
+author:
+  name: "aven.c"
+  email: "aven.c888@gmail.com"
+  url: "https://aven-c888.github.io/blog/"
+
 theme: jekyll-theme-hacker
+
+owner : "aven.c"
